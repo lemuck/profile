@@ -1,0 +1,97 @@
+body {
+	font-family: 'Asap Condensed', sans-serif;
+	padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  background-color: #E8F1F2;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 90px;
+	margin: 0px 0px 30px 0px;
+}
+
+h2 {
+
+}
+
+#profile_box {
+    text-align: center;
+}
+
+/*
+#side_bar {
+    margin-left: 100px;
+    background-color: #001A23;
+}
+*/
+
+.hobby_boxes {
+  background-color: #7A9E7E;
+  border-radius: 8px;
+  box-shadow: 1px 1px 3px #001A23;
+  margin: 10px 80px 10px 80px;
+}
+
+.hobby_boxes h2 {
+	text-align: center;
+}
+
+.inside_box {
+	display: grid;
+	grid-template-columns: 1Fr 1Fr;
+}
+
+.side_text {
+	margin: 10px 30px 10px 0px;
+}
+
+.hobby_boxes img {
+	margin: 0px 0px 40px 70px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	position: relative;
+  overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid #001A23;
+	box-shadow: 2px 2px 3px #001A23;	
+}
+
+a {
+	font-style: none;
+	color: #001A23;
+}
+
+a:hover {
+	color: #7A9E7E;
+}
+
+#links {
+	font-size: 50px;
+	text-align: center;
+}
+
+#links ul {
+	margin: 20px 0px 0px 0px;
+}
+
+
+
+
+
+
+/*
+font-family: 'Asap Condensed', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Ramabhadra', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+
+
